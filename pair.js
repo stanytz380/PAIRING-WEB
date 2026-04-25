@@ -20,19 +20,22 @@ const SESSION_TIMEOUT = 5 * 60 * 1000;
 const CLEANUP_DELAY = 5000;
 
 const MESSAGE = `
-*SESSION GENERATED SUCCESSFULLY* ✅
+> ✅ SESSION GENERATED SUCCESSFULLY DEPLOY ANY BOT BELOW
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GlobalTechInfo/MEGA-MD
+> ⭐ Support the project by giving a star on GitHub:  
+1.https://github.com/stanytz378/iamlegendv2.1
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Global_TechInfo
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
+2.https://github.com/stanytz378/mia-khalifa2.1
 
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/@GlobalTechInfo
 
-*MEGA-MD--WHATSAPP* 🥀
+
+> 💭 Join Support Group:  
+https://chat.whatsapp.com/J19JASXoaK0GVSoRvShr4Y
+
+> 📢 Follow Updates Channel:  
+https://whatsapp.com/channel/0029Vb7fzu4EwEjmsD4Tzs1p
+
+> 🤖 STANY TZ V2 🥀
 `;
 
 async function removeFile(FilePath) {
