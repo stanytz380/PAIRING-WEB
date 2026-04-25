@@ -23,9 +23,9 @@ const MESSAGE = `
 > ✅ SESSION GENERATED SUCCESSFULLY DEPLOY ANY BOT BELOW
 
 > ⭐ Support the project by giving a star on GitHub:  
-1.https://github.com/stanytz378/iamlegendv2.1
+> 1.https://github.com/stanytz378/iamlegendv2.1
 
-2.https://github.com/stanytz378/mia-khalifa2.1
+> 2.https://github.com/stanytz378/mia-khalifa2.1
 
 
 
